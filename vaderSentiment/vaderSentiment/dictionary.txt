@@ -125,7 +125,7 @@ BESTRAUGHT, mad, distracted
 BETEEM, to allow, grant; with a play on the  meaning, to pour out
 BEWRAY, to discover, to reveal 
 BEZONIAN, a base fellow 
-BIDDY! a call to allure chickens 
+BIDDY!, a call to allure chickens 
 BIGGIN, a nightcap  
 BILBO, a sword-blade of great flexibility, manufactured at Bilboa 
 BILBOES, a species of fetters used at sea 
@@ -211,7 +211,7 @@ CALLAT, a drab
 CANARY, a lively dance;to dance the abodance 
 CANDLE-MINE, a magazine of tallow 
 CANDLE-WASTER, one who sits up late to study 
-CANKER and CANKER-BLOOM} the rose of the sweet-briar 
+CANKER and CANKER-BLOOM, the rose of the sweet-briar 
 CANKER-BLOSSOM, a blossom eaten by the canker-worm 
 CANTLE, a small piece, a slice 
 CANTON, a song 
@@ -321,8 +321,7 @@ CORROSIVE, & CORSIVE) an irritant remedy;  irritating, giving pain
 COSTARD, the head,—properly an apple 
 COTE, to come up with, and pass on the way 
 COT-QUEAN, a man busying himself with the business of women 
-COUNTER, adrun or hunt counter is to follow  the game backwards on the scent, (here a play is  intended on the name of the well-known 
-London debtors' prison, the Counter) 
+COUNTER, adrun or hunt counter is to follow  the game backwards on the scent, (here a play is  intended on the name of the well-known London debtors' prison, the Counter) 
 COUNTER-CASTER, a reckoner, caster-up of accounts
 COUNTERFEIT, a portrait; a piece of bad money 
 COUNTERPOINT, a counterpane
@@ -371,8 +370,7 @@ CUT, a horse
 CUT AND LONG-TAIL, of every sort 
 CUTTLE, a bully
 DAFF, to take off; to put by,to turn aside with slight and neglect 
-DAGONET, a foolish knight at the court of
-King Arthur 
+DAGONET, a foolish knight at the court of King Arthur 
 DANCING HORSE, a performing horse, belonging to one Bankes, a Scotchman 
 DANGER, power, control, according to some debt 
 DARE, to terrify, make to couch; larks were caught by small mirrors fastened on scarlet cloth 
@@ -432,7 +430,7 @@ DRAWN, quaffed
 DRAWN FOX, a fox turned out of his earth,
 DRIBBLING, weakly shot 
 DROLLERY, a puppet show; a humorous painting 
-DRUMBLE. to be sluggish 
+DRUMBLE, to be sluggish 
 DRY-BEAT, to thrash, cudgel 
 DUDGEON, the handle of a dagger
 DUN, name for a horse. 'To draw dun from  mire,' a rustic game played with a log of wood,
@@ -646,7 +644,7 @@ GIG, a top
 GIGLOT, a light wench, Meas. for Meas 
 GILT, money; gilding, fair show. 
 GIMMAL, double, or made with double rings
-GIMMALS [FoL gimmors], pieces of mechanism, mechanical devices 
+GIMMALS, pieces of mechanism, mechanical devices 
 GING, a gang, a pack 
 GIRD, a scoff, sarcasm; to gibe, taunt, 
 GIVE OUT, to report; to giover 
@@ -679,7 +677,7 @@ GRIZE, a step
 GRIZZLE, a tinge of grey
 GROUND, the original air, on which the  variations are made 
 GROUNDLINGS, vulgar spectators, who stood in what is now the pit of the theatre 
-GROW TO, to haa strong flavour 
+GROW TO, to have strong flavour 
 GROW TO A POINT, to come to the point 
 GUARDS, two stars of Ursa Minor were called guards of the pole 
 GUARDS, trimmings; trimmed, ornamented 
@@ -695,7 +693,7 @@ HACK, to grow common
 HAGGARD, a wild hawk
 HAIR, nature, texture 
 HALF-CHECKED BIT, mutilated, of which only one part remained 
-HALL, a hall! a cry to make room for dancers
+HALL, a hall! a exclamation to make room for dancers
 HAND-FAST, a contract, betrothal; custody 
 HANDY-DANDY, a game in which an object is  passed from one to another, 
 HANGMAN BOYS, young rascals
@@ -710,7 +708,7 @@ HAUGHT, haughty
 HAUNCH, the rear, latter end 
 HAVOC, to cry 'havoc!' signifies to gino quarter 
 HAWKING, hawk-like 
-HAY, a circular dance;an exclamation used  by a fencer when he hits his adversary  
+HAY, a circular dance; an exclamation used  by a fencer when he hits his adversary  
 HEAD, an armed force; source 
 HEAD-LUGGED, part. dragged by the ears, savage
 HEAP, company of persons 
@@ -741,7 +739,7 @@ HIGH LONE, alone, on one's own feet, a term of the nursery
 HIGHT, is called 
 HIGH-VICED, conspicuously wicked 
 HILDING, a menial; base 
-HIP. TO CATCH ON, haone's power; a wrestling or hunting phrase 
+HIP TO CATCH ON, haone's power; a wrestling or hunting phrase 
 HIPPED, hurt in the hips 
 HIREN, Irene, name of the heroine in a lost drama by Pecle 
 HIT TOGETHER, agree or act together
@@ -1011,7 +1009,7 @@ MERELY, entirely
 MESS, a set of four; a small quantity  or fragment
 METAPHYSICAL, supernatural 
 MEW, to pen up, to imprison 
-MEW! an interjection of contempt
+MEW!, an interjection of contempt
 MICHER, a truant 
 MICHING, sneaking, lurking 
 MIDDLE-EARTH, the world
@@ -1122,7 +1120,7 @@ O'ER-PARTED, having too difficult a part assigned to one
 O'ER-RAUOHT, overtook; swindled 
 O'ER-SIZED, smeared over as with size
 OFF-CAP, to take the cap off 
-OFFICED.holding a certain position; having a  certain function 
+OFFICED, holding a certain position; having a  certain function 
 OFFICES, servants' apartments in a great house 
 OLD, wold; abundant, plentiful, great 
 ON, of 
@@ -1188,7 +1186,7 @@ PEARL, 'kingdom's pearl'=fine youth, or perhaps choice nobility of the country
 PEAT, a pet, a darling
 PECULIAR, preserved, guarded
 PEDANT, a schoolmaster
-PEELED part. shaven
+PEELED, shaven
 PEER, to appear
 PEEVISH, silly, foolish
 PEG, to wedge
@@ -1386,7 +1384,7 @@ RAMPALLIAN, a term of low abuse
 RAMPING, rampant
 RAMPS, wanton wenches 
 RANGE, to dispose in order
-34; ranks of an army 
+34, ranks of an army 
 RANK, swollen; perhaps pace 
 RAP, to transport 
 RAPTURE, violent motion; violent tossing 
@@ -1400,7 +1398,7 @@ RAZED, slashed
 RAZURE, erasure 
 REBATE, to blunt 
 RECHEAT, hunting, term, a set of notes sounded to call the dogs off from a wrong scent 
-RECORD to sing 
+RECORD, to sing 
 RECORDER, a kind of flute 
 RECOURSE, frequent flowing 
 RECOVER THE WIND, to get the windward of the game, so as to dria toil
@@ -1482,8 +1480,7 @@ RUNNING BANQUET, a hasty refreshment
 RUSH ASIDE, push aside 
 RUTH, pity
 SABLES, rich fur
-SACKERSON, name of a famous bear at Paris 
-Garden on the Bank side
+SACKERSON, name of a famous bear at Paris Garden on the Bank side
 SACRING BELL, a bell rung when the elements are  consecrated at Mass
 SAFE, sure, sound
 SAG, to droop, sink
@@ -1531,7 +1528,7 @@ SHEAVED, made of straw
 SHKEP-BITBR, a malicious and treacherous fellow 
 SHENT, rated, reviled 
 SHIP-TIRE, a head-dress
-SHIVE. a slice
+SHIVE, a slice
 SHOG, to moon
 SHOTTEN HERRINO, one that has shed its roe
 SHOUGHS, shaggy dogs 
@@ -1572,7 +1569,7 @@ SMATCH, smack, taste
 SMATTER, to prattle, to chatter 
 SMOOTH, to flatter 
 SNEAP, to check, to nip, too; a snub 
-SNECK UP ! an expression of contemgo and be hanged 
+SNECK UP!, an expression of contemgo and be hanged 
 SNUFF, the smouldering wick of a candle ; an object of loathing and contempt 
 SNUFFS, quarrels; to take or be in snuft==to take  offence at 
 SOILED, luxuriously fed, high-blooded 
@@ -1595,7 +1592,7 @@ SPRINGHALT, a lameness in horses
 SQUANDERED, scattered
 SQUANDERING, going at random 
 SQUARE, the most precious square=most valuable part; the embroidery about the bosom of a smock or shift; to quarrel 
-SQUARER. brawler, braggart 
+SQUARER, brawler, braggart 
 SQUASH, an unripe peascod
 SQUINY, to look asquint 
 SQUIRE, a square, rule, measure 
@@ -1624,7 +1621,7 @@ STOVER, fodder for cattle
 STRAIN COURTESY, to decline to go first 
 STRAINED, forced, constrained
 STRAPPADO, a species of punishment; the victim's arms were strapped behind his back, and he was suddenly let fall 
-STRIKE [sail], a naval term, to submit, giway 
+STRIKE, sail, a naval term, to submit, giway 
 STRIKERS, dissolute fellows
 STROSSERS, trousers  'STROY, to destroy 
 STUCK, a thrust in fencing, a stock 
@@ -1704,7 +1701,7 @@ THICK-PLEACHED, thickly intertwined
 THICK-SKIN, blockhead 
 THILL-HORSE, shaft-horse 
 THINK, to be full of sorrowful thoughts 
-THIRD-BOROUGH [O. Ed. HEAD-BOROUGH], a kind of constable 
+THIRD-BOROUGH, a kind of constable 
 THOUGHT, melancholy 
 THOUGHT-EXECUTING, part. executing with the quickness of thought 
 THRASONICAL, boastful 
@@ -1720,11 +1717,12 @@ THUNDER-STONE, a thunderbolt
 THWART, perverse, cross 
 TICKLE-BRAIN, strong drink 
 TICK-TACK, a sort of backgammon 
-TILLY-FALLY or TILLY-VALLY, an expression of contempt
+TILLY-FALLY, an expression of contempt
+TILLY-VALLY, an expression of contempt
 TIMELESS, untimely 
 TIMELY-PARTED, recently dead
 TINCT, the grand elixir sought by alchemists; colour 
-TIRE.sub.a headdress; furniture; to feed greedily 
+TIRE, a headdress; furniture; to feed greedily 
 TIRING-HOUSE, the dressing-room of a theatre 
 TIRRITS, perhaps terrors
 TISICK, a cough 
@@ -1780,8 +1778,7 @@ TUCK, a rapier
 TUCKET, a flourish on a trumpet 
 TUFT, clump
 TUNE, accent 
-TURLYGOOD, apparently a name given to
-Bedlam beggars 
+TURLYGOOD, apparently a name given to Bedlam beggars 
 TURN TURK, to become wicked
 TWIGGEN, cased in wicker work 
 TWILLED, perhaps sedged or covered with reeds 
@@ -1791,7 +1788,7 @@ UMBER, red ochre
 UMBER'D, darkened 
 UMBRAGE, shadow
 UNANEL'D, without extreme unction 
-UNBARBED, pt.bare, without armour 
+UNBARBED, bare, without armour 
 UNBATED, unblunted, without the button at the point 
 UNBOLT, reveal 
 UNBOLTED, coarse, or unrefined 
@@ -1809,14 +1806,14 @@ UNDERSKINKER, an underdrawer, tapster
 UNDERTAKER, a surety, or agent for others 
 UNEARED, part. unploughed 
 UNEXPRESSIVE, inexpressible
-UNFAIR, to depriof beauty 
+UNFAIR, to deprive beauty 
 UNFOLDING STAR, the star that bids the shepherd unfold 
 UNHAIRED, beardless, foolish
 UNHATCHED, which has not yet taken effect;  unfledged; unbacked, unhurt 
 UNHOUSELED, without receiving the sacrament 
 UNION, a fine pearl 
 UNJOINTED, Incoherent 
-UNKENNEL, to dria fox from his earth; to reveal 
+UNKENNEL, to drive fox from his earth; to reveal 
 UNMANNED, untamed 
 UNMITIGABLE, implacable 
 UNNECESSARY, useless, needless 
@@ -1825,8 +1822,8 @@ UNPREGNANT, dull, without sense
 UNPRIZEABLE, invaluable 
 UNPRIZED, unvalued, or perhaps priceless 
 UNPROPER, not one's own, common 
-UNPROVIDE, to unfuruish, to depriof what is necessary 
-UNRAKED. not made up for the night
+UNPROVIDE, to unfuruish, to deprive what is necessary 
+UNRAKED, not made up for the night
 UNRECURING, incurable 
 UNRESPECTIVE, unthinking, devoid of respect 
 UNRESPECTIVE SINK, the sewer, where worthless things are thrown 
@@ -1883,7 +1880,7 @@ VINDICATIVE, revengeful
 VINEWEDST, musty, mouldy 
 VIOL-DE-GAMBOYS, & violoncello
 VIOLENT, to be violent 
-VIRGINALLING ,playing with the fingers, as upon the virginal 
+VIRGINALLING, playing with the fingers, as upon the virginal 
 VISITINGS, fits, attacks 
 VOICE, to proclaim; a vote 
 VOIDING-LOBBY, ante-room
@@ -1896,7 +1893,7 @@ WAKE, a late revel; to keep late revel
 WALL-EYED, fierce-eyed, with a large portion of the white visible 
 WALL-NEWT, a lizard 
 WANNED, turned pale 
-WANNION. In the phrase, 'with a waniron'= 'with a vengeance.' The form' wenion' is not uncommon in writers of the period 
+WANNION, In the phrase, 'with a waniron' 'with a vengeance.' The form' wenion' is not uncommon in writers of the period 
 WAPPENED, of doubtful meaning, perhaps overworn, stale 
 WARD, a guard in fencing; a bolt 
 WARDEN, a large baking pear
@@ -1914,7 +1911,7 @@ WATERISH, watery; watery, or else weak
 WATER-RUGS, rough water-dogs
 WATERS, FOR ALL, fit for anything 
 WATERS, TO RAISE, excite tears 
-WATER-WORK, a painting in water-colour 
+WATER-WORK, a painting in water-color 
 WATERY, eagerly desirous
 WAUL, to cry as an infant 
 WAVE, to fluctuate 
@@ -1932,10 +1929,9 @@ WELL-GRACED, graceful or popular
 WELL-SEEN, well-skilled 
 WELL-WISHED, popular
 WELSH HOOK, a sort of battle-axe 
-WESTWARD-HO! the cry of watermen on the
-Thames 
+WESTWARD-HO!, the cry of watermen on the Thames 
 WEZAND, the windpipe 
-WHEEL, tlie burthen or refrain of a song, or else a spinning wheel at which it was sung;  to roam
+WHEEL, tlie burthen or refrain of a song, or else a spinning wheel at which it was sung; to roam
 WHELK, a pimple 
 WHELKED, covered with knobs 
 WHEN, an exclamation of impatience 
@@ -1953,11 +1949,10 @@ WHIPSTER, a term of contempt for a novice,
 WHIPSTOCK, handle of a whip
 WHIR, to hurry away 
 WHIST, still 
-WHISTLB, WORTH THE, worth notice, regard. 
-Comp. the proverb, 'It's a poor dog that is  not worth the whistling 
+WORTH THE WHISTLE, worth notice, regard, the proverb, 'It's a poor dog that is  not worth the whistling 
 WHISTLE HER OFF, dismiss the hawk from the fist 
 WHITE, the bull's-eye in a target 
-WHITE-LIVERBD, cowardly. Comp. LILY-LIVERED. 
+WHITE-LIVERED, cowardly. Comp. LILY-LIVERED. 
 WHITING-TIME, bleaching-time 
 WHITSTER, a bleacher 
 WHITTLE, a clasp-knife 
@@ -1970,7 +1965,7 @@ WILD MARE, TO RIDE THE, to play at see-saw
 WILDNESS, distraction 
 WILFUL-BLAME, wilfully incurring blame 
 WIMPLED, blindfolded ('Wimple' was a neck-handkerchief.) 
-WIND, 'hathe wind of '-=- hathe advantage of 
+WIND, 'hathe wind of hathe advantage of 
 WIND, ALLOW THE, to giair; to scent ; to blow; to manage 
 WINDGALLS, swellings in the legs of a horse 
 WINDLASS, a circuit 
@@ -1988,29 +1983,28 @@ WISP OF STRAW, the badge of a scold
 WISTLY, wistfully
 WITCH, a wizard 
 WITH, prep. by, being greeted with 
-WITH HIMSELF=in possession of his faculties 
-WITHAL, I COULD NOT DO=I could not help it
-WITHOUT, exceTwo Gent 
+WITH HIMSELF, in possession of his faculties 
+WITHAL I COULD NOT DO, I could not help it
 WITTOL, a contented cuckold 
 WITTOLLY, wittol-like 
-WOMAN, 'woman me to it'=make me show my woman's weakness 
+WOMAN, 'woman me to it,’ make me show my woman's weakness 
 WOMAN'D, accompanied by a woman 
 WOMAN-QUELLER, a murderer of woman 
 WOMAN-TIRED, henpecked
 WOMB, to enclose 
 WOMBY, hollow 
 WONDERED, wonder-working
-Woo, to solicit 
+WOO, to solicit 
 WOOD, mad 
 WOODCOCK, a simpleton 
-WOODEN THING, ' an awkward business, not likely to succeed'
+WOODEN THING, an awkward business, not likely to succeed'
 WOODMAN, a wencher 
 WOOLLEN, to lie in the blankets 
 WOOLWARD, TO GO, to wear wool instead of linen next the skin, a penance 
 WORD, to represent; to fool with words
 WORK, a fortification
-WORRY-DAY, common. WORKING-DAY
-WORLD, 'to go to the world '=to be married;' woman  of the world'=married woman; 'a world to see'=a wonder to  see; the microcosm
+WORRY-DAY, WORKING-DAY
+WORLD, 'to go to the world,’ to be married;' woman  of the world,’ married woman; 'a world to see,’ a wonder to  see; the microcosm
 WORM, a serpent; a creature
 WRANGLER, an adversary, a tennis term
 WREAK, vengeance; to revenge
@@ -2019,12 +2013,12 @@ WREST, a tuning key
 WRETCH, a term of endearment 
 WRING, to writhe 
 WRINGING, torture 
-WRIT=wrote, claimed 
+WRIT, wrote, claimed 
 WRITHLED, wrinkled 
 WRY, to swerve
 YARE, renimble, acti
 YARELY, readily, briskly 
-YAW, to mounsteadily as a ship which does not answer the helm 
+YAW, to mount steadily as a ship which does not answer the helm 
 YEAR, years 
 YEARN, to grieve, vex 
 YELLOW, emblem of jealousy 
