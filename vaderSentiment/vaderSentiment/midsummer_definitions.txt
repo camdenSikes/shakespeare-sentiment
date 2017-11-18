@@ -63,8 +63,8 @@ bay: bring to bay, drive to a last stand
 beached: having a beach, shingly, sandy
 bead: tiny thing, smallest of objects
 become: be fitting, befit, be appropriate to
-befall (v.), past forms befallen, befell 1 happen, occur, take place, turn out
-befall (v.), past forms befallen, befell 2 happen to, come to
+befall: past forms befallen, befell 1 happen, occur, take place, turn out
+befall: past forms befallen, befell 2 happen to, come to
 beguile: cheat, deceive, trick
 behowl: howl at, bay, cry out to
 belike: probably, presumably, perhaps, so it seems
@@ -73,7 +73,7 @@ beshrew, 'shrew: curse, devil take, evil befall
 beshrew, 'shrew: curse, devil take, evil befall
 beteem: allow, permit, let, grant
 beteene: allow, permit, let, grant
-bethink (v.), past form bethought 1 call to mind, think about, consider, reflect
+bethink: past form bethought 1 call to mind, think about, consider, reflect
 bill: inventory, list, catalogue
 bladed: many-bladed, abounding in shoots
 blood: passion, feeling, strong emotion [especially sexual]
@@ -103,13 +103,13 @@ brisky: brisk, lively, sprightly
 broach: pierce, impale, spit
 brow: appearance, aspect, countenance
 brow: forehead [often plural, referring to the two prominences of the forehead]
-bully (n./adj.) [especially as a warm form of address] fine fellow, good friend
-bully (n./adj.) [especially as a warm form of address] fine fellow, good friend
+bully: [especially as a warm form of address] fine fellow, good friend
+bully: [especially as a warm form of address] fine fellow, good friend
 bur: clinger, person difficult to shake off
 burr: clinger, person difficult to shake off
 buskined: wearing high hunting boots [buskins]
 buy: pay for, suffer the consequences of
-canker (n./adj.) 1 grub that destroys plant buds and leaves, cankerworm, parasite
+canker: 1 grub that destroys plant buds and leaves, cankerworm, parasite
 canker-blossom: grub that destroys the blossom [of love]
 capacity: intelligence, understanding, capability
 car: carriage, cart, chariot [often of the sun god]
@@ -121,9 +121,9 @@ Cavalery: cavalier, courtly gentleman
 centre: centre of the Earth, axis
 certain: sure, unerring, accurate
 change: exchange, trade
-changeling (n./adj.) 1 child taken by fairies, stolen child
-changeling (n./adj.) 1 child taken by fairies, stolen child
-changeling (n./adj.) 1 child taken by fairies, stolen child
+changeling: 1 child taken by fairies, stolen child
+changeling: 1 child taken by fairies, stolen child
+changeling: 1 child taken by fairies, stolen child
 chaplet: garland, wreath
 charm: produce, bring, cause [as by magic]
 charmed: bewitched, enchanted, placed under a spell
@@ -131,11 +131,11 @@ chase: pursuit, sequence, hunt
 cheer: face, look, expression
 cheer: face, look, expression
 cheer: encourage, urge on, galvanize
-chide (v.), past form chid 1 scold, rebuke, reprove
-chide (v.), past form chid 1 scold, rebuke, reprove
-chide (v.), past form chid 1 scold, rebuke, reprove
-chide (v.), past form chid 3 quarrel, wrangle, fight
-chide (v.), past form chid 4 brusquely command, drive [away] with harsh words
+chide: past form chid 1 scold, rebuke, reprove
+chide: past form chid 1 scold, rebuke, reprove
+chide: past form chid 1 scold, rebuke, reprove
+chide: past form chid 3 quarrel, wrangle, fight
+chide: past form chid 4 brusquely command, drive [away] with harsh words
 chiding: barking, brawling, angry noise
 childing: fertile, fruitful, teeming
 choir: company, group, assembly
@@ -250,7 +250,7 @@ erewhile: a short time ago, a while before
 estate: endow, settle upon, bestow (up)on
 excuse: explain, give reasons [for]
 exposition: malapropism for ‘disposition’ [= inclination]
-extempore (adj./adv.) 2 spontaneously, involuntarily, without thinking
+extempore: spontaneously, involuntarily, without thinking
 extenuate: mitigate, lessen, tone down
 extort: torture, abuse, wring
 eyne: [archaism] eyes
@@ -272,9 +272,6 @@ fancy-sick: love-sick, infatuated, pining
 fantasy: imagining, delusion, hallucination
 fantasy: imagining, delusion, hallucination
 fantasy: ardent desire, amorous fancy
-fare ... well
-fare ... well
-fare ... well
 fashion: arrange, contrive, manage
 favour: [facial] appearance, countenance, features, looks
 favour: mark of favour, gift, token [often a love-token]
@@ -299,12 +296,12 @@ foredone: exhausted, tired out, worn out
 forsooth: in truth, certainly, truly, indeed
 forsooth: in truth, certainly, truly, indeed
 forsooth: in truth, certainly, truly, indeed
-forswear (v), past forms forsworn, forswore 1 swear falsely, perjure [oneself], break one's word
-forswear (v), past forms forsworn, forswore 2 abandon, renounce, reject, give up
+forswear: past forms forsworn, forswore 1 swear falsely, perjure [oneself], break one's word
+forswear: past forms forsworn, forswore 2 abandon, renounce, reject, give up
 French-crown-colour: light yellow coloured [as the French crown coin]
-fright (v.), past form frighted frighten, scare, terrify
-fright (v.), past form frighted frighten, scare, terrify
-fright (v.), past form frighted frighten, scare, terrify
+fright: past form frighted frighten, scare, terrify
+fright: past form frighted frighten, scare, terrify
+fright: past form frighted frighten, scare, terrify
 frolic: frolicsome, merry, frisky
 gait: manner of walking, bearing, movement
 gait: proceedings, course, doings, steps
@@ -333,7 +330,7 @@ glass: mirror, looking-glass
 glass: mirror, looking-glass
 gleek: make a pointed joke, jest, gibe
 go about: endeavour, set to work, start trying
-go along come along, come with me
+go along: come along, come with me
 gossip: old woman, gossiping woman
 gossip: be a close companion, talk together
 governess: ruler, mistress
@@ -347,7 +344,7 @@ grossness: material nature, bodily form
 guestwise: in the manner of a guest, as a visitor
 hang off: leave hold, stop clinging
 harbinger: forerunner, herald, precursor
-head, to one's to one's face, frankly, openly
+to one's head: to one's face, frankly, openly
 heart: : grand-hearted lads, fine companions
 heavy: pressing, weighty, overpowering
 heavy: weary, exhausted, worn out
@@ -396,7 +393,7 @@ knavery: roguish trick, rouguery, trickery
 knavery: roguish trick, rouguery, trickery
 knot-grass: species of creeping weed
 know: acknowledge, remember, think [of]
-large, at 1 at length, in full, thoroughly
+at large: at length, in full, thoroughly
 latch: fasten, secure; or: moisten [leach]
 leathern: leather-like
 leviathan: sea-monster, whale
@@ -449,7 +446,7 @@ monstrous: exceedingly, wonderfully, extraordinarily
 mood: anger, fury, frenzy, fit of temper
 morn: morning, dawn
 morn: morning, dawn
-morris, nine men's area marked out in squares for playing nine men's morris [a type of open-air game using nine ‘men’ on each side]
+nine men's morris: area marked out in squares for playing nine men's morris [a type of open-air game using nine ‘men’ on each side]
 morrow: morning
 morrow: morning
 mote: speck of dust, tiny particle, trifle
@@ -479,7 +476,7 @@ orb: fairy ring, circle
 orient: lustrous, brilliant, bright
 original: point of origin, cause, source
 ounce: lynx
-ousel, woosel (n./adj.) blackbird
+ousel, woosel: blackbird
 outsleep: sleep beyond [a time], sleep in
 overbear: overwhelm, overcome, overpower
 overbear: overrule, overcome, put down
