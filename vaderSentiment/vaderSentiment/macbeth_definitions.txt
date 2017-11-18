@@ -1,5 +1,5 @@
 abed: in bed
- a-bed: in bed
+a-bed: in bed
 abhorred: horrifying, disgusting, abominable
 abide: stay, remain, stop [in a position]
 absolute: curt, peremptory, blunt
@@ -79,8 +79,8 @@ bank: coast, shore
 bark: ship, vessel
 barque: ship, vessel
 battle: army, fighting force, battalion
-bear (v.), past forms bore, borne 2 carry on, manage, conduct [an affair]
-bear in hand 1 abuse, take advantage of, delude, deceive
+bear: past forms bore, borne 2 carry on, manage, conduct [an affair]
+bear in hand: abuse, take advantage of, delude, deceive
 become: be fitting, befit, be appropriate to
 become: be fitting, befit, be appropriate to
 become: grace, honour, dignify
@@ -101,7 +101,7 @@ bestride: stand over, protect, safeguard
 betimes: early in the morning, at an early hour
 betimes: speedily, soon, in a short time
 betray: deceive, seduce, mislead
-bid (v.), past form bade 3 pray, entreat, beg, ask
+bid: past form bade 3 pray, entreat, beg, ask
 bill: inventory, list, catalogue
 birthdom: kingdom of birth, birthright, native land
 bladed: many-bladed, abounding in shoots
@@ -118,7 +118,7 @@ bloody: involving bloodshed
 bodement: omen, portent, augury
 bond: deed, contract, pledge
 bond: deed, contract, pledge
-boot, to in addition, as well
+boot: to in addition, as well
 bosom: intimate, confidential, close
 bosom: heart, inner person
 bosom: heart, inner person
@@ -148,7 +148,7 @@ card: [compass-card, on which the 32 points of the compass are marked] model, ac
 careless: uncared-for, untended
 casing: encasing, surrounding, enveloping
 cast: [wrestling] throw down, make fall
-cast the water inspect the urine; diagnose the disease
+cast the water: inspect the urine; diagnose the disease
 catalogue: list, register, roll-call
 catch: seize, get hold of, capture
 catch: seize, get hold of, capture
@@ -179,7 +179,7 @@ chawdron: entrails [of a beast]
 cheer: kind welcome, good reception
 cherubin: cherub, angel; or: cherubim, angels
 chicken: child, little one
-chide (v.), past form chid 1 scold, rebuke, reprove
+chide: past form chid 1 scold, rebuke, reprove
 choke: smother, suffocate, stifle
 choppy: chapped, cracked, rough
 chough: jackdaw
@@ -188,7 +188,7 @@ clear: pure, spotless, faultless
 clear: innocent, blameless, free from fault, not guilty
 clear: cheerfully, brightly, with unclouded face
 clearness: freedom from suspicion, appearance of innocence
-clepe (v.), past form clept [archaism] call, name, style
+clepe: past form clept [archaism] call, name, style
 cling: wither, shrivel, shrink up
 clog: impede, hinder, obstruct [progress]
 cloistered: confined, restricted [as in a cloister]
@@ -201,7 +201,7 @@ cloudy: sullen, gloomy, scowling
 coign: projecting corner, prominent position
 colours: colour-ensigns, standard-bearers
 combustion: tumult, confusion, disorder
-come what come may come what may, whatever happens
+come what come: come what may, whatever happens
 commend: commit, entrust, hand over
 commend: commit, entrust, hand over
 commend: praise, admire, extol
@@ -209,7 +209,7 @@ commission: warrant, authority [to act]
 compass: surround, be in the middle of
 compose: make up, produce, fashion
 composition: settlement, truce, coming to terms
-compt, in held in trust, subject to account
+in compt: held in trust, subject to account
 compunctious: remorseful, contrite, conscience-stricken
 conclude: decide, resolve, settle
 conference: conversation, talk, discourse
@@ -329,7 +329,7 @@ estate: state, kingdom
 eternal: immortal, everlasting
 eterne: eternal, everlasting, for ever
 event: outcome, issue, consequence
-Evil, the the king's evil, scrofula [a lymphatic disease]
+the Evil: the king's evil, scrofula [a lymphatic disease]
 excite: incite, stir up, move
 execution: killing, slaying, slaughter
 expectation: situation of being expected
@@ -355,9 +355,6 @@ fantastical: imaginary, unreal, illusory
 fantastical: imaginary, unreal, illusory
 farce: stuff, cram
 force: stuff, cram
-fare ... well
-fare ... well
-fare ... well
 farrow: [of pigs] litter, young, piglet
 fatal: ominous, full of foreboding, doom-laden
 fatal: ominous, full of foreboding, doom-laden
@@ -377,7 +374,7 @@ file: register, list, roll
 file: register, list, roll
 file: defile, corrupt, taint
 first: beginning, outset, start
-first and last, at to one and all, from beginning to end
+at first and last: to one and all, from beginning to end
 firstling: first product, first fruits
 fit: fever, attack, seizure
 fit: conflict, beating, turmoil
@@ -389,7 +386,7 @@ foison: [pron: 'foyzn] abundance, plenty, profusion
 foizon: [pron: 'foyzn] abundance, plenty, profusion
 force: reinforce, strengthen, augment
 fork: forked tongue
-forswear (v), past forms forsworn, forswore 1 swear falsely, perjure [oneself], break one's word
+forswear: past forms forsworn, forswore 1 swear falsely, perjure [oneself], break one's word
 fortune: good fortune, success
 founded: firmly based, secure, stable
 fountain: spring, source, well
@@ -399,8 +396,8 @@ franchised: free from evil, upright
 free: frank, undisguised, open
 free: freely, in a liberal way
 fret: distress oneself, worry, express discontent
-friend, to as a friend, friendly
-fright (v.), past form frighted frighten, scare, terrify
+to friend: as a friend, friendly
+fright: past form frighted frighten, scare, terrify
 fry: brood, offspring, progeny
 fume: harmful vapour [rising from the stomach to the brain]
 function: activity, action, performance
@@ -420,10 +417,10 @@ gentle: soft, tender, kind
 gently: quietly, tamely, without a fight
 germen: seed, life-forming elements
 get: beget, conceive, breed
-gild (v.), past forms gilt, gilded 1 cover, coat, smear
+gild: past forms gilt, gilded 1 cover, coat, smear
 gin: snare, trap
-gin, 'gin: begin [to]
-gin, 'gin: begin [to]
+'gin: begin [to]
+gin: begin [to]
 give out: proclaim, announce, herald
 glass: magic mirror, crystal ball
 glass: magic mirror, crystal ball
@@ -531,13 +528,10 @@ leave: leave-taking, permision to depart
 leavy: leafy, covered with foliage
 lees: (plural) dregs, remains, remnants
 levy: recruitment of soldiers, conscription of men
-lie, give the deceive; [wrestling] lay someone out; make urinate
+lie: give the deceive; [wrestling] lay someone out; make urinate
 light: give light to, show the way to
 like: same, similar, alike, equal
 like: likely, probable / probably
-like, the the same
-like, the the same
-like, the the same
 limbeck: retort, distilling apparatus, alembic
 lime: birdlime
 limited: appointed, designated, nominated
@@ -581,7 +575,7 @@ moe: more [in number]
 mock: deceive, delude, mislead
 modern: ordinary, trite, commonplace, everyday
 monster: marvel, monstrosity, prodigy
-more and less 1 men of high and low rank
+more and less: men of high and low rank
 more-having: having more, amassing, acquiring
 morn: morning, dawn
 morrow: morning
@@ -691,7 +685,6 @@ pitfall: bird-trap, fowler's snare
 place: position, post, office, rank
 plant: set up, establish, introduce
 point: sword-point
-point, at / at a in readiness, prepared, armed
 portable: bearable, supportable, endurable
 possess: notify, inform, acquaint
 posset: restorative hot drink, made of milk, liquor, and other ingredients
@@ -711,7 +704,7 @@ predominance: ascendancy, predominant influence, authority
 presently: immediately, instantly, at once
 pretence: plan, design, intention, purpose
 pretend: intend, design, plan
-pride of place highest point reached by a bird of prey before swooping down
+pride of place: highest point reached by a bird of prey before swooping down
 probation: proof, demonstration
 procreant: for the purpose of procreation
 profound: with powerful qualities, with secret powers
@@ -747,7 +740,8 @@ raven up: feed ravenously on, devour voraciously
 ravined: stuffed with prey, glutted
 ravened: stuffed with prey, glutted
 rawness: unprotected state, vulnerable situation
-raze, raze out erase, obliterate, wipe out
+raze: erase, obliterate, wipe out
+raze out: erase, obliterate, wipe out
 rebuke: repress, put down, check
 receive: consider, believe, regard
 reckon with: make a reckoning of, take full account of what is owed to
@@ -765,7 +759,7 @@ remorse: pity, compassion, tenderness
 remove: go, move off, depart
 render: give up, surrender, yield
 rent: rend, tear, pull to pieces
-requite (v.), past forms requit, requited 1 reward, repay, recompense
+requite: past forms requit, requited 1 reward, repay, recompense
 resolve: decide, make up one's mind
 respect: esteem, status, honour
 rest: remain, stay, stand
@@ -862,7 +856,7 @@ sore: violent, harsh, dreadful
 sorely: heavily, grievously, profoundly
 sorry: sorrowful, painful, sad, pitiable
 sorry: sorrowful, painful, sad, pitiable
-soul, half a halfwit, cretin, simpleton
+soul: half a halfwit, cretin, simpleton
 speak: proclaim, show, reveal
 speculation: power of knowing, faculty of intelligence
 speech: conversation, talk, discourse
@@ -953,7 +947,6 @@ theme: subject, subject-matter, topic of discourse
 thick-coming: coming in crowds, frequently appearing
 thicken: grow dim, darken
 thought: intention, purpose, design
-thought, upon a in a moment, instantly, straight away
 thrall: slave, subject, captive
 time: : world,: age, society
 time: : world,: age, society
@@ -998,7 +991,7 @@ upon: against
 uproar: throw into turmoil, reduce to confusion
 use: usual practice, habit, custom
 use: keep company with, entertain
-utterance, to the to the bitter end, to the death
+to the utterance: to the bitter end, to the death
 valued: showing value, discriminating
 vantage: right moment, suitable opportunity
 vantage: advantage, benefit, advancement, profit
@@ -1031,8 +1024,7 @@ watcher: one who stays wide-awake
 watching: wakefulness, sleeplessness, vigilance
 water-rug: rough-haired water-dog
 way: course, passage
-weal 1 state, community, commonwealth
-weal 1 state, community, commonwealth
+weal: state, community, commonwealth
 wear: possess, enjoy, have
 weigh: balance [as in scales], poise, match
 whey-face: milk-face, pasty-face
@@ -1050,9 +1042,9 @@ wonder: feeling of wonder, astonishment, marvelling
 wonder: feeling of wonder, astonishment, marvelling
 wooingly: enticingly, alluringly, temptingly
 word: : speech, talk, utterance
-work (v.), past form wrought 2 perform, do, carry out
-work (v.), past form wrought 3 affect, stir, act upon
-work (v.), past form wrought 8 practise, proceed, plot
+work: past form wrought 2 perform, do, carry out
+work: past form wrought 3 affect, stir, act upon
+work: past form wrought 8 practise, proceed, plot
 worm: serpent, snake
 wrack: destruction, ruin
 wrack: destruction, ruin

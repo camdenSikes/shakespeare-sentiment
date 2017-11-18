@@ -28,7 +28,8 @@ affray: scare, startle, frighten away
 affright: frighten, terrify, scare
 afire: on fire, burning
 after-hours: subsequent time, later moments
-against, 'gainst: in anticipation of the time when
+against: in anticipation of the time when
+'gainst: in anticipation of the time when
 all-cheering: invigorating everything
 alliance: marriage
 ally: relative, relation, kinsman
@@ -95,7 +96,9 @@ baggage: good-for-nothing woman, harlot
 bake: harden, make solid
 baked meats: pies, pastries
 baleful: deadly, mortal, malignant
-bancrout, bankrout, bankerout (n./adj./v.) bankrupt
+bancrout: bankrupt 
+bankrout: bankrupt 
+bankerout: bankrupt
 bandy: drive, strike, toss back
 bandying: verbal strife, exchange of words
 banquet: refreshments, light meal, dessert
@@ -112,7 +115,7 @@ becomed: becoming, befitting, appropriate
 beetle: overhanging, prominent, bushy
 before: ahead, in advance
 before: ahead, in advance
-beget (v.), past form begot 2 produce, engender, give rise to
+beget: past form begot 2 produce, engender, give rise to
 beggarly: destitute, impoverished, poverty-stricken
 beguile: cheat, deceive, trick
 beguile: cheat, deceive, trick
@@ -130,23 +133,23 @@ beshrew, 'shrew: curse, devil take, evil befall
 beshrew, 'shrew: blame, censure, take to task, wish mischief on
 best: at the highest point, in the best state
 betake: resort, have recourse, commit oneself
-bethink (v.), past form bethought 1 call to mind, think about, consider, reflect
-bethink (v.), past form bethought 1 call to mind, think about, consider, reflect
+bethink: past form bethought 1 call to mind, think about, consider, reflect
+bethink: past form bethought 1 call to mind, think about, consider, reflect
 betossed: tossed about, shaken up
-bid (v.), past form bade 3 pray, entreat, beg, ask
+bid: past form bade 3 pray, entreat, beg, ask
 bide: endure, suffer, undergo
 birth: nature, kind, natural character
-bite one's thumb [gesture of insult or defiance] insert the thumb nail into the mouth, making it click againt the upper teeth upon release
+bite one's thumb: [gesture of insult or defiance] insert the thumb nail into the mouth, making it click againt the upper teeth upon release
 bladder: vessel derived from animals used for storing liquid
-blame, to to be blamed, blameworthy
+to blame: to be blamed, blameworthy
 blaze: proclaim, divulge, make known
 blaze forth: proclaim, divulge, make known
 blazon: proclaim, display [as in a coat of arms]
 blood: blood relationship, kinship
 blood: life-blood, spirit
 boisterous: painful, hurtful, rough on the feelings
-book, by the expertly, as if following a manual
-book, without off by heart, by rote
+by the book: expertly, as if following a manual
+without book: off by heart, by rote
 borrowed: assumed, pretended, feigned
 borrowed: assumed, pretended, feigned
 bosom: heart, inner person
@@ -191,7 +194,7 @@ cage: basket, frame
 caitiff: wretched, miserable, worthless
 cake: compressed pack, flattened bundle
 cancelled: made null and void, invalidated
-canker (n./adj.) 1 grub that destroys plant buds and leaves, cankerworm, parasite
+canker: grub that destroys plant buds and leaves, cankerworm, parasite
 cankered: rusted, corroded, tarnished
 cankered: malignant, malicious, bad-tempered
 canopy: covering above a bed
@@ -229,12 +232,12 @@ cheer: entertainment, fare, food and drink
 cheerly: [cry of encouragement] heartily, with a will
 cheerly: [cry of encouragement] heartily, with a will
 cheverel: kid leather [noted for its pliancy]
-chide (v.), past form chid 1 scold, rebuke, reprove
-chide (v.), past form chid 1 scold, rebuke, reprove
-chide (v.), past form chid 1 scold, rebuke, reprove
-chide (v.), past form chid 1 scold, rebuke, reprove
-chide (v.), past form chid 1 scold, rebuke, reprove
-chide (v.), past form chid 4 brusquely command, drive [away] with harsh words
+chide: past form chid 1 scold, rebuke, reprove
+chide: past form chid 1 scold, rebuke, reprove
+chide: past form chid 1 scold, rebuke, reprove
+chide: past form chid 1 scold, rebuke, reprove
+chide: past form chid 1 scold, rebuke, reprove
+chide: past form chid 4 brusquely command, drive [away] with harsh words
 chinks: money-bags, ready money
 choler: anger, rage, wrath
 choler: anger, rage, wrath
@@ -256,7 +259,7 @@ closely: secretly, covertly, privately
 closet: private chamber, study, own room
 clout: piece of cloth, rag; handkerchief
 coals, carry submit to insult, show cowardice; also: do degrading work
-cock-a-hoop, set [unclear meaning] abandon all restraint, put everything into disorder
+set cock-a-hoop: [unclear meaning] abandon all restraint, put everything into disorder
 cockatrice: murderous serpent, basilisk
 coil: turmoil, disturbance, fuss
 coldly: calmly, coolly, objectively, rationally
@@ -272,7 +275,7 @@ commend: convey greetings, present kind regards
 commend: convey greetings, present kind regards
 commend: convey greetings, present kind regards
 commission: warrant, authority [to act]
-compare, above beyond comparison
+above compare: beyond comparison
 compass: range, reach, limit, scope
 complain: lament, bewail, bemoan
 compliment: example of good manners, instance of proper behaviour
@@ -437,8 +440,8 @@ dull: gloomy, melancholic, sullen
 dump: plaintive melody, mournful song
 dump: tune, melody
 Dun: horse's name [involving the lifting of a log ‘horse’ in a Christmas game called ‘drawing dun out of the mire’]
-dun's the mouse [proverbial] keep quiet, be still
-dwell on / upon 1 preserve, maintain, pay attention to
+dun's the mouse: [proverbial] keep quiet, be still
+dwell on: preserve, maintain, pay attention to
 earl: lord, peer, nobleman
 elf-lock: hair treated by elves; matted locks
 ell: measure of length [45 inches / c.114 cm in England]
@@ -458,7 +461,8 @@ envious: malicious, spiteful, vindictive, full of enmity
 envious: malicious, spiteful, vindictive, full of enmity
 environ: surround, envelop, encircle, engulf
 estate: state, situation, circumstances
-Ethiop, Ethiope (adj./n.) Ethiopian, African, person with a dark countenance
+Ethiop: Ethiopian, African, person with a dark countenance
+Ethiope: Ethiopian, African, person with a dark countenance
 even: evening
 exhale: cause to flow, draw out, draw up
 expire: end, conclude, terminate
@@ -507,7 +511,7 @@ follower: second, attendant
 fond: foolish, stupid, mad
 fond: tender, loving, affectionate
 fond: infatuated, doting, passionate
-foot it dance away, tread lively
+foot it: dance away, tread lively
 forbear: stop, cease, desist
 forbear: stop, cease, desist
 forerun: forecast, foreshadow, be the precursor of
@@ -516,17 +520,15 @@ form: way of behaving, behaviour, code of conduct
 form: formal procedure, due process, formality
 form: physical appearance, outward appearance
 forsooth: in truth, certainly, truly, indeed
-forswear (v), past forms forsworn, forswore 1 swear falsely, perjure [oneself], break one's word
-forswear (v), past forms forsworn, forswore 1 swear falsely, perjure [oneself], break one's word
-forswear (v), past forms forsworn, forswore 2 abandon, renounce, reject, give up
-forswear (v), past forms forsworn, forswore 3 deny, repudiate, refuse to admit
-forswear (v), past forms forsworn, forswore 3 deny, repudiate, refuse to admit
+forswear: swear falsely, perjure [oneself], break one's word
+forswear: abandon, renounce, reject, give up
+forswear: deny, repudiate, refuse to admit
 fortune: lucky chance, good luck
 frank: generous, liberal, bounteous
 friend: lover, sweetheart, suitor
 friend: relation, relative, kinsman
-fright (v.), past form frighted frighten, scare, terrify
-fright (v.), past form frighted frighten, scare, terrify
+fright: past form frighted frighten, scare, terrify
+fright: past form frighted frighten, scare, terrify
 furnish: dress, clothe, equip, fit out
 gall: bitterness, spitefulness, vindictiveness
 gall: bitterness, spitefulness, vindictiveness
@@ -580,14 +582,14 @@ gross: vile, abhorrent, wicked
 grub: maggot, worm
 gyve: : fetters, shackles
 hag: malicious sprite, wicked fairy
-hair, against the against the grain, contrary to inclination
+against the hair: against the grain, contrary to inclination
 hams: thighs, legs
 hap: fortune, lot, fate
 hap: happening, event, occurrence
 haply: perhaps, maybe, by chance, with luck
 happy: fortunate, lucky, favoured
 happy: opportune, appropriate, propitious, favourable
-happy time, in 2 coming just at the right time
+in happy time: coming just at the right time
 harlot: prostitute, whore
 harlotry: [affectionate] little wretch, baggage
 haste: hurry, speed up, accelerate
@@ -728,7 +730,7 @@ maidenhead: virginity
 make: do, have to do
 make: prove effective, be of avail
 mammet: doll, puppet
-man of wax faultless, perfect [as of a wax model]
+man of wax: faultless, perfect [as of a wax model]
 manage: management, handling, control [especially of a horse, as a result of training]
 mandrake: variety of poisonous plant [thought to emit a lethal shriek when pulled from the ground]
 mannerly: seemly, decent, modest
@@ -821,9 +823,9 @@ nimble-pinioned: swift-winged
 nor ... nor: neither...nor
 note: observe, pay attention [to], take special note [of]
 note: observe, pay attention [to], take special note [of]
-nothing, all the world to the odds are a million to one
+all the world to nothing: the odds are a million to one
 number: : metre, versification
-nyas eyas, hawk nestling, young hawk
+nyas eyas: nestling, young hawk
 O: vocalization used before a direct address [to a person, thing, concept, etc]
 O: sorrowful exclamation
 obsequy: funeral rite, burial ceremony
@@ -897,7 +899,7 @@ portly: stately, majestic, dignified
 possess: fill, imbue
 post: express messenger, courier
 post: post-horse
-post, in in haste, at top speed
+in post: in haste, at top speed
 post-horse: fast horse
 powder: gunpowder
 powder: gunpowder
@@ -917,7 +919,7 @@ price: value, worth, importance
 prick: torment, vex, grieve
 pricksong: vocal music written down, printed music
 princox: conceited young fellow, impertinent youth
-privy 1 privately aware [of], secretly knowledgeable [about]
+privy: privately aware [of], secretly knowledgeable [about]
 procure: bring, induce, make come
 procure: bring, induce, make come
 prodigious: abnormal, monstrous, unnatural
@@ -935,7 +937,7 @@ protest: declare, say, swear
 protest: declare love
 proverb: provide with worldly wisdom [by]
 puffing: puffed-out, swollen, swelling
-puling (n./adj.) 1 whimpering, whining, complaining
+puling: whimpering, whining, complaining
 punto reverso: [fencing] backhanded thrust
 purblind: blind
 purchase out: buy off punishment for
@@ -992,9 +994,10 @@ sad: downcast, distressed, mournful, gloomy
 sad: downcast, distressed, mournful, gloomy
 sad: downcast, distressed, mournful, gloomy
 sadly: seriously, gravely, solemnly
-sadness, in / in good in earnest, seriously
+in sadness: in earnest, seriously
+in good sadness: in earnest, seriously
 safety: safe keeping, custody
-said, well well done
+well said: well done
 saucy: insolent, impudent, presumptuous, defiant
 saucy: insolent, impudent, presumptuous, defiant
 scant: scarcely, barely, hardly
@@ -1041,7 +1044,7 @@ simple: foolish, silly, stupid
 simple: foolish, silly, stupid
 simple: ingredient, element, constituent
 simpleness: idiocy, stupidity, foolishness
-singleness simplicity, shallowness, silliness
+singleness: simplicity, shallowness, silliness
 single-soled: thin, poor, worthless
 singular: unmatched, preeminent, outstanding
 sir-reverence: save your reverence
@@ -1150,7 +1153,6 @@ substantial: real, of substance, not imaginary
 subtly: deceitfully, treacherously, deceptively
 subtilly: deceitfully, treacherously, deceptively
 sudden: immediate, early, prompt
-sudden, of / on / upon a / the 1 suddenly
 suffer: allow, permit, let
 suit: formal request, entreaty, petition
 suit: formal request, entreaty, petition
@@ -1165,12 +1167,12 @@ sweet: perfumed, scented, fragrant
 sweet: sweetness, pleasure, delight
 sweet: sweetness, pleasure, delight
 sweeting: sweet-flavoured variety of apple
-swits and spurs [switches] at full speed, in hot haste
+swits and spurs: [switches] at full speed, in hot haste
 swound: faint, swoon
 sympathy: accord, agreement, harmony
 tackled: made of rope
 take down: humble, lower, cut down to size
-take me with you I don't understand you
+take me with you: I don't understand you
 tale: talking, discourse
 tall: brave, valiant, bold
 tallow-face: [contemptuous] face as pale as wax
@@ -1193,7 +1195,7 @@ thrust at / in: make a thrust, lunge, stab [at]
 tide: season, date, time [of year]
 tilt: joust, fight [with lances], thrust
 time: lifetime, life
-time, in good 1 at the right moment
+in good time: at the right moment
 timeless: untimely, premature, ill-timed
 tithe-pig: pig given as part of a tithe
 tonight: last night, this past night
@@ -1210,7 +1212,7 @@ trim: decorate, array, deck out
 triumph: high point, joy of the moment
 triumphant: triumphal, glorious, celebrating a great victory
 troop with: go along with, be associated with, accompany
-truce, take come to terms, negotiate
+take truce: come to terms, negotiate
 truckle-bed: low-lying bed on castors, trundle-bed
 trudge: go away, depart, leave
 true: constant, faithful in love
@@ -1279,7 +1281,7 @@ waggoner: driver, charioteer
 wagoner: driver, charioteer
 wait: be in attendance, do service
 walk: walk aside, withdraw to duel
-wall, take the take the inside position, keep to the cleaner side of a path
+take the wall: take the inside position, keep to the cleaner side of a path
 wanny: wan, pallid, pale
 want: lack, need, be without
 want: lack, need, be without
@@ -1308,7 +1310,7 @@ watch: stay awake, keep vigil
 watching: wakefulness, sleeplessness, vigilance
 wax: grow, become, turn
 weak: contemptible, despicable, dishonourable
-weal 2 welfare, well-being, prosperity
+weal: welfare, well-being, prosperity
 weed: garments, dress, clothes
 well-apparelled: well-dressed, nicely adorned
 well-seeming: attractively looking, presenting a plausible appearance
@@ -1333,15 +1335,13 @@ wit: mental sharpness, acumen, quickness, ingenuity
 wit: mental sharpness, acumen, quickness, ingenuity
 wit: mental sharpness, acumen, quickness, ingenuity
 without: outside
-wits, also five wits faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)
-wits, also five wits faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)
-wits, also five wits faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)
-wits, also five wits faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)
+wits: wits faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)
+five wits: faculties of the mind (common wit, imagination, fantasy, estimation, memory) or body (the five senses)
 woe: pitiable creature, mournful sight
 wolvish-ravening: devouring like a wolf
 womb: belly, paunch
-work (v.), past form wrought 1 bring about, arrange, effect
-work (v.), past form wrought 1 bring about, arrange, effect
+work: past form wrought 1 bring about, arrange, effect
+work: past form wrought 1 bring about, arrange, effect
 wormwood: absinthe plant, known for its bitter taste
 worth: means, resources, wherewithal
 wot: learn, know, be told

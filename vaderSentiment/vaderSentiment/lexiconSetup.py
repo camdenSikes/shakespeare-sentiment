@@ -1,9 +1,9 @@
 from decimal import *
 from vaderSentiment import SentimentIntensityAnalyzer
 
-shakespeareDictFile = open("dictionary.txt", "r")
+shakespeareDictFile = open("macbeth_definitions.txt", "r")
 vaderLex = open("vader_lexicon.txt", "r")
-vaderShakeLex = open("vaderShakeLex.txt", "w")
+vaderShakeLex = open("vaderMacbethLex.txt", "w")
 vaderLexList = vaderLex.readlines()
 
 shakespeareDict = {}
@@ -11,7 +11,7 @@ shakespeareDict = {}
 analyzer = SentimentIntensityAnalyzer()
 
 for line in shakespeareDictFile:
-    wordAndDef = line.split(",", 1)
+    wordAndDef = line.split(":", 1)
     word = wordAndDef[0]
     word = word.lower()
     definition = wordAndDef[1]
