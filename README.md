@@ -18,6 +18,7 @@ lexiconSetup.py - takes the original vader lexicon and a dictionary of words, ad
 <play>.txt - the text of <play>, with all line breaks within a single character's dialogue removed
 <play>_definitions.txt - the dictionary of Shakespearean words in <play>
 sentiment_over_time.xlsx - spreadsheet of the sentiments of the plays over time
+topics<play>.csv - topic modeling for <play>
 vaderShakespeare.py - Runs sentiment analysis on a file, specified in the code
 
 In vaderSentiment/vaderSentiment/:
