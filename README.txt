@@ -1,16 +1,18 @@
 # shakespeare-sentiment
 # By Martha Durrett and Camden Sikes
+
 How to add to the VADER lexicon:
+
 - In lexiconSetup.py, change the dictionary file being used to whatever dictionary you want to add, and the output file to an appropriate filename
-
 - Run lexiconSetup.py
-
 - In vaderSentiment/vaderSentiment/vaderSentiment.py, go to line 197 and change the name of the file being opened to the lexicon you just created
 
 Now, VADER will be using the newly created lexicon. To run it line by line on a text, and also get and average score for the whole text, change the text being opened in vaderShakespeare.py, and run the program.
 
+---------------------------------------------------------------------
 
-# File descriptions (* means depreciated):
+File descriptions (* means depreciated):
+
 
 In this directory:
 
@@ -30,6 +32,7 @@ sentiment_over_time.xlsx - spreadsheet of the sentiments of the plays over time
 topics<play>.csv - topic modeling for <play>
 
 vaderShakespeare.py - Runs sentiment analysis on a file, specified in the code
+
 
 In vaderSentiment/vaderSentiment/:
 
