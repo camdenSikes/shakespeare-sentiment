@@ -1,7 +1,7 @@
 ##run revised vader sentiment on shakespeare
 
 from decimal import *
-from vaderSentiment import SentimentIntensityAnalyzer
+from vaderSentiment.vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 analyzer = SentimentIntensityAnalyzer()
 
@@ -16,4 +16,4 @@ for line in midsummer:
     if compound != 0:
         count += 1
 compound = compound/count
-print(compound)
+print("\nAverage score:", compound)
