@@ -5,7 +5,7 @@ from vaderSentiment import SentimentIntensityAnalyzer
 
 analyzer = SentimentIntensityAnalyzer()
 
-midsummerFile = open("macbeth.txt", "r")
+midsummerFile = open("romeojuliet.txt", "r")
 midsummer = midsummerFile.readlines()
 count = 0
 compound = 0

@@ -2,8 +2,8 @@ from decimal import *
 from vaderSentiment import SentimentIntensityAnalyzer
 
 shakespeareDictFile = open("macbeth_definitions.txt", "r")
-vaderLex = open("vader_lexicon.txt", "r")
-vaderShakeLex = open("vaderMacbethLex.txt", "w")
+vaderLex = open("vaderSentiment/vaderSentiment/vader_lexicon.txt", "r")
+vaderShakeLex = open("vaderSentiment/vaderSentiment/vaderMacbethLex.txt", "w")
 vaderLexList = vaderLex.readlines()
 
 shakespeareDict = {}
