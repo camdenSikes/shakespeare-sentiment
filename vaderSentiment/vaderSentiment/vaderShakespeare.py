@@ -5,12 +5,13 @@ from vaderSentiment import SentimentIntensityAnalyzer
 
 analyzer = SentimentIntensityAnalyzer()
 
-midsummerFile = open("topicTest.txt", "r")
+midsummerFile = open("macbeth.txt", "r")
 midsummer = midsummerFile.readlines()
 count = 0
 compound = 0
 for line in midsummer:
     vs = analyzer.polarity_scores(line)
+    print(vs["compound"])
     compound += vs["compound"]
     if compound != 0:
         count += 1

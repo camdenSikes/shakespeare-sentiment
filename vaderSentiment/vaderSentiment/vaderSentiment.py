@@ -3,6 +3,7 @@
 # Thanks to George Berry for reducing the time complexity from something like O(N^4) to O(N).
 # Thanks to Ewan Klein and Pierpaolo Pantone for bringing VADER into NLTK. Those modifications were awesome.
 # For license information, see LICENSE.TXT
+#Lexicon file selection on line 197
 
 """
 If you use the VADER sentiment analysis tools, please cite:
@@ -192,7 +193,8 @@ class SentimentIntensityAnalyzer(object):
     """
     Give a sentiment intensity score to sentences.
     """
-    def __init__(self, lexicon_file="vaderShakeLex.txt"):
+    ###This is where you change the lexicon being used
+    def __init__(self, lexicon_file="vaderMacbethLex.txt"):
         _this_module_file_path_ = abspath(getsourcefile(lambda:0))
         lexicon_full_filepath = join(dirname(_this_module_file_path_), lexicon_file)
         with open(lexicon_full_filepath, encoding='utf-8') as f:
